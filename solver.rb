@@ -1,6 +1,6 @@
 class Solver
  def factorial(n)
-
+  raise ArgumentError if n.negative?
  end
 
  def reverse(word)
