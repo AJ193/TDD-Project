@@ -1,13 +1,13 @@
 class Solver
- def factorial
+ def factorial(n)
   
  end
 
- def reverse
+ def reverse(word)
   
  end
 
- def fizzbuzz
+ def fizzbuzz(n)
   
  end
 end
